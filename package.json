@@ -1,0 +1,23 @@
+{
+  "name": "jsontospreadsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node converter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannpt/jsonToSpreadsheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wannpt/jsonToSpreadsheet/issues"
+  },
+  "homepage": "https://github.com/wannpt/jsonToSpreadsheet#readme",
+  "dependencies": {
+    "excel4node": "^1.7.2"
+  }
+}
